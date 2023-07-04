@@ -19,13 +19,4 @@ Day-4 pandas _DataFrame_part-2
 
 * And here's the third list item.
 
-See the section on [`code`](plt.figure(figsize=(14,4))
-plt.subplot(121)
-sns.distplot(X_train['Age'])
-plt.title('Age PDF')
-
-plt.subplot(122)
-stats.probplot(X_train['Age'], dist="norm", plot=plt)
-plt.title('Age QQ Plot')
-
-plt.show()).
+See the section on [`code`](plt.figure(figsize=(14,4))).
