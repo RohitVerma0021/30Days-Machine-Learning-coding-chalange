@@ -12,9 +12,9 @@ Day-4 pandas _DataFrame_part-2
 
 >> This is markdown language
 
-- First item
-- Second item
-- Third item
-    - Indented item
-    - Indented item
-- Fourth item
+* This is the first list item.
+* Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+* And here's the third list item.
