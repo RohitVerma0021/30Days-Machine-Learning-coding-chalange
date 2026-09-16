@@ -28,4 +28,4 @@ plt.subplot(122)
 stats.probplot(X_train['Age'], dist="norm", plot=plt)
 plt.title('Age QQ Plot')
 
-plt.show()`](plt.figure(figsize=(14,4))).
+plt.show()`](plt.figure(figsize=(14,4)))...
