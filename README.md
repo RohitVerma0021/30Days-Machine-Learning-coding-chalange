@@ -10,10 +10,7 @@ Day-4 pandas _DataFrame_part-2
 
  Day-5 matplotlib_part-1
 
->> This is markdown language
-
-* This is the first list item.
-* Here's the second list item.
+>> other will be continue in the class.
 
     > A blockquote would look great below the second list item.
 
