@@ -14,7 +14,7 @@ Day-4 pandas _DataFrame_part-2
 
     > A blockquote would look great below the second list item.
 
-* And here's the third list item.
+* And here's the third list item..
 
 See the section on [`plt.figure(figsize=(14,4))
 plt.subplot(121)
